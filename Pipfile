@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/sample"
+verify_url = true
+name = "pypi"
+
+[packages] 
+pyspark = "*"
+pytest = "*"
+
+[dev-packages]
+
+[requires]
+
+python_version = " 3.8.0b3"
